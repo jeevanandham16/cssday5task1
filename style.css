@@ -1,0 +1,22 @@
+body{
+    background-color: darkgreen;
+    color: white;
+}
+img{
+    height: 240px;
+    width: 320px;
+    margin: 10px;
+}
+div{
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+}
+#organic{
+    background-color: white;
+    color: darkgreen;
+    height: 240px;
+    width: 320px;
+    
+}
